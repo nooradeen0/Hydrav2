@@ -2,7 +2,7 @@
 
 wwww.youtube.com/c/hydranet
 
-Install in Kali linux And Termux 
+# how to Install in Kali linux And Termux 
 
 pkg update && pkg upgrade
 
@@ -20,6 +20,6 @@ cd Hydrav2
 python2 hydrav2.py
 
 
-Username and password Type anything Username and it will be directed to my account Instagram Contact me for the password and username
+# Username and password Type anything Username and it will be directed to my account Instagram Contact me for the password and username
 
-Enjoy
+# Enjoy
