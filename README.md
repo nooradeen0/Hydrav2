@@ -15,4 +15,11 @@ pkg install python2
 
 pip2 install requests mechanize
 
+cd Hydrav2
+
+python2 hydrav2.py
+
+
 Username and password Type anything Username and it will be directed to my account Instagram Contact me for the password and username
+
+Enjoy
